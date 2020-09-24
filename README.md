@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning Serverless, Progressive Web Apps and UX Design
 
-- 👨‍💻 Some of my projects are available at [https://github.com/mkredzel](https://github.com/mkredzel)
+- 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/mkredzel" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
+[](https://github.com/mkredzel)
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
