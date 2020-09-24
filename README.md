@@ -20,9 +20,9 @@
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
 
-<h1 align="center">Technologies</h1>
+<h1 align="left">Technologies</h1>
  
-<p align="center">
+<p align="left">
 <code>
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,4 +43,4 @@
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=cobalt" alt="mkredzel" />
-<img align="center" style="margin-right: 50px; margin-top: 89px" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=cobalt" alt="mkredzel" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=cobalt" alt="mkredzel" />
