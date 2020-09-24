@@ -1,13 +1,10 @@
 <h1 align="center">Hello, I'm Marcel 👋</h1>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" alt="mkredzel" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<br>
 
 - 🏫 I'm a 3rd year Computer Science student, and I will be graduating in May 2021 😎
 
@@ -41,6 +38,5 @@
 </code>
 </p>
 
-<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=cobalt" alt="mkredzel" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=cobalt" alt="mkredzel" />
