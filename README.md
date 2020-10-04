@@ -40,5 +40,5 @@
 </code>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=cobalt" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=cobalt&langs_count=7&hide=racket&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=cobalt" />
