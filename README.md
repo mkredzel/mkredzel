@@ -48,5 +48,5 @@
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=radical&langs_count=7&hide=racket&layout=compact" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=radical&langs_count=7&hide=racket&layout=compact" width="32.5%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=radical" width="50%"/>
