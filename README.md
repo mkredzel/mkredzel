@@ -8,7 +8,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 👨‍🎓 I'm about to obtain a deegre in BSc Computer Science 
+- 👨‍🎓 I'm about to obtain a degree in BSc Computer Science 
 
 - 📊 I’m currently working on my final year project - Speech Analysis Data Visualization App
 
