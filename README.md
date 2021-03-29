@@ -14,8 +14,8 @@
 
 - 🌱 I’m currently learning TypeScript React & GraphQL
 
-- 👨‍💻 Some of my projects are available here --> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn4.iconfinder.com/data/icons/gradient-circle-blue/36/5044-512.png"> My Portfolio</a></code>
-[](https://github.com/mkredzel)
+- 👨‍💻 Some of my projects are available here --> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://ps.w.org/wp-external-links/assets/icon-256x256.png?rev=2103983"> My Portfolio</a></code>
+[](https://mkredzel.me)
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
