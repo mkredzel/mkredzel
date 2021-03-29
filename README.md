@@ -33,6 +33,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NativeScript](https://img.shields.io/badge/-NativeScript-05122A?style=flat&logo=nativescript&logoColor=3B6DFD)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
