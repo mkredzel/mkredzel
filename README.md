@@ -12,9 +12,9 @@
 
 - 📊 I’m currently working on my final year project - Speech Analysis Data Visualization App
 
-- 🌱 I’m currently learning AWS & NativeScript, but React is my next step
+- 🌱 I’m currently learning TypeScript React & GraphQL
 
-- 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/mkredzel" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
+- 👨‍💻 Some of my projects are available here --> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn4.iconfinder.com/data/icons/gradient-circle-blue/36/5044-512.png"> My Portfolio</a></code>
 [](https://github.com/mkredzel)
 
 - 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
