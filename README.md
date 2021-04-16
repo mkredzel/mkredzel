@@ -45,9 +45,10 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=radical&langs_count=7&hide=racket&layout=compact" width="32.5%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=radical" width="50%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=7&hide=racket&layout=compact" width="32.5%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia" width="50%"/>
