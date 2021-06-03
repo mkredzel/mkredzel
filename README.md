@@ -8,16 +8,14 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 👨‍🎓 I'm about to obtain a degree in BSc Computer Science 
+- 👨‍🎓 &nbsp; BSc Computer Science Graduate
 
-- 📊 I’m currently working on my final year project - Speech Analysis Data Visualization App
+- 🧑‍💻 &nbsp; I’m working as Junior Web Developer for VaultEA
 
-- 🌱 I’m currently learning TypeScript React & GraphQL
-
-- 👨‍💻 Some of my projects are available here --> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://ps.w.org/wp-external-links/assets/icon-256x256.png?rev=2103983"> My Portfolio</a></code>
+- 💼 &nbsp; Some of my projects are available here -> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://ps.w.org/wp-external-links/assets/icon-256x256.png?rev=2103983"> My Portfolio</a></code>
 [](https://mkredzel.me)
 
-- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
+- 📫 &nbsp; Let's connect! -> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 <br><br>
 
 <h1 align="left">Technologies & Tools</h1>
@@ -35,7 +33,8 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NativeScript](https://img.shields.io/badge/-NativeScript-05122A?style=flat&logo=nativescript&logoColor=3B6DFD)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
+ ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
