@@ -10,7 +10,7 @@
 
 - 👨‍🎓 &nbsp; BSc Computer Science Graduate
 
-- 🧑‍💻 &nbsp; I’m working as Junior Web Developer for VaultEA
+- 🧑‍💻 &nbsp; I’m working as a Web Developer at VaultEA
 
 - 💼 &nbsp; Some of my projects are available here -> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://ps.w.org/wp-external-links/assets/icon-256x256.png?rev=2103983"> My Portfolio</a></code>
 [](https://mkredzel.me)
