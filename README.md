@@ -8,15 +8,16 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+- 🧑‍💻 &nbsp; Web Developer at VaultEA
+
 - 👨‍🎓 &nbsp; BSc Computer Science Graduate
 
-- 🧑‍💻 &nbsp; I’m working as a Web Developer at VaultEA
+- 📫 &nbsp; Let's connect! -> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 
-- 💼 &nbsp; Some of my projects are available here -> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://ps.w.org/wp-external-links/assets/icon-256x256.png?rev=2103983"> My Portfolio</a></code>
+- 💼 &nbsp; Some of my projects are available here -> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/job-portfolio-1956296-1650459.png"> My Portfolio</a></code>
 [](https://mkredzel.me)
 
-- 📫 &nbsp; Let's connect! -> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
-<br><br>
+<br>
 
 <h1 align="left">Technologies & Tools</h1>
  
