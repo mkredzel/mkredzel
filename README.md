@@ -1,6 +1,10 @@
 <h1 align="center">Hello, I'm Marcel <img src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" width="40px"></h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=consolas&color=%233B7FF7&size=26&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Web+Developer+at+VaultEA+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;BSc+Computer+Science+Graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Let's+connect!+%F0%9F%93%AB">
+</p>
+
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" />
 <br>
 <img src="https://img.shields.io/github/followers/mkredzel?style=flat&label=Followers&color=blue" />
