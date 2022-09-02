@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" />
-<br>
-<img src="https://img.shields.io/github/followers/mkredzel?style=flat&label=Followers&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=mkredzel&label=Profile+Views" />
+    <br>
+    <img src="https://img.shields.io/github/followers/mkredzel?style=flat&label=Followers&color=blue" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -16,9 +16,9 @@
 
 - 👨‍🎓 &nbsp; BSc Computer Science Graduate
 
-- 📫 &nbsp; Let's connect! -> <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
+- 📫 &nbsp; Let's connect! &rarr; <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 
-- 💼 &nbsp; Some of my projects are available here -> <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/job-portfolio-1956296-1650459.png"> My Portfolio</a></code>
+- 💼 &nbsp; Some of my projects are available here &rarr; <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/job-portfolio-1956296-1650459.png"> My Portfolio</a></code>
 [](https://mkredzel.me)
 
 <br>
@@ -39,20 +39,28 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NativeScript](https://img.shields.io/badge/-NativeScript-05122A?style=flat&logo=nativescript&logoColor=3B6DFD)
 ![PHP](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
- ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel&logoColor=FB7A24)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=7&hide=racket&layout=compact" width="32.5%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia" width="50%"/>
+<div style="display: flex;"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=7&hide=racket&layout=compact" width="35.6%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia" width="63.9%" />
+</div>
+
+<div>
+    <img src="https://activity-graph.herokuapp.com/graph?username=mkredzel&bg_color=050F2C&color=0194DD&line=0194DD&point=ffffff&area_color=1c1917&area=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+</div>
