@@ -57,8 +57,8 @@
 </p>
 
 <div style="display: flex;"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=7&hide=racket&layout=compact" width="35.6%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia" width="63.9%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact" width="32.8%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true" width="66.7%" />
 </div>
 
 <div>
