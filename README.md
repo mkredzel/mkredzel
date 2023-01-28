@@ -62,5 +62,5 @@
 </div>
 
 <div>
-    <img src="https://activity-graph.herokuapp.com/graph?username=mkredzel&bg_color=050F2C&color=0194DD&line=0194DD&point=ffffff&area_color=1c1917&area=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mkredzel&bg_color=050F2C&color=0194DD&line=0194DD&point=ffffff&area_color=1c1917&area=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 </div>
