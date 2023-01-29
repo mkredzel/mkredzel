@@ -22,7 +22,7 @@
 
 - 📫 &nbsp; Let's connect! &rarr; <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 
-- 💼 &nbsp; Some of my projects are available here &rarr; <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/job-portfolio-1956296-1650459.png"> My Portfolio</a></code>
+- 💼 &nbsp; Some of my projects are ~~available~~ here &rarr; <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/job-portfolio-1956296-1650459.png"> ~~My Portfolio~~</a></code>
 [](https://mkredzel.me)
 
 <br>
@@ -42,7 +42,7 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NativeScript](https://img.shields.io/badge/-NativeScript-05122A?style=flat&logo=nativescript&logoColor=3B6DFD)
-![PHP](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
@@ -50,6 +50,7 @@
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -61,8 +62,8 @@
 </p>
 
 <div style="display: flex;"> 
-    <img src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact" width="32.8%" />
-    <img src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true" width="66.7%" />
+    <img src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner&hide=Roff,ActionScript,Less" width="32.8%" />
+    <img src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&role=owner,collaborator,organization_member" width="66.7%" />
 </div>
 
 <div>
