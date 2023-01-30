@@ -27,8 +27,8 @@
 
 <br>
 
-<h1 align="left">Technologies & Tools</h1>
- 
+<h1 align="left">🛠️ Technologies & Tools</h1>
+
 <p align="left">
  
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
@@ -61,8 +61,10 @@
 
 </p>
 
+<h1 align="left">📊 Contribution Stats</h1>
+
 <div style="display: flex;"> 
-    <img src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner&hide=Roff,ActionScript,Less" width="32.8%" />
+    <img src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="32.8%" />
     <img src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&role=owner,collaborator,organization_member" width="66.7%" />
 </div>
 
