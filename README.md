@@ -66,9 +66,13 @@
 
 <div style="display: flex;"> 
     <img src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="32.8%" />
-    <img src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&role=owner,collaborator,organization_member" width="66.7%" />
+    <img src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&role=owner,collaborator,organization_member&include_all_commits=true" width="66.7%" />
 </div>
 
 <div>
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mkredzel&bg_color=050F2C&color=0194DD&line=0194DD&point=ffffff&area_color=1c1917&area=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/mkredzel/mkredzel/blob/output/snake.svg" alt="Snake animation" />
 </div>
