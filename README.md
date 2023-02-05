@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I'm Marcel <img src="https://32.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gif" height="40px" width="40px"></h1>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=mkredzel&data=followers,repositories,stars,commits&theme=vscode">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=007ACC&size=32&center=true&vCenter=true&width=600&pause=1000&lines=Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Web+Developer+at+VaultEA+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;BSc+Computer+Science+Graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Let's+connect!+%F0%9F%93%AB">
 </p>
 
@@ -63,7 +59,10 @@
 </p>
 
 <h1 align="left">📊 Contribution Stats</h1>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=mkredzel&data=followers,repositories,stars,commits&theme=vscode" width="100%">
 <img src="https://raw.githubusercontent.com/mkredzel/mkredzel/output/snake.svg" alt="Snake Animation" width="100%" />
+
 <div style="display: flex;"> 
     <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="32.8%" alt="Most Used Languages" />
     <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&role=owner,collaborator,organization_member&include_all_commits=true" width="66.7%" alt="GitHub Stats" />
