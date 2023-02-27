@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Marcel <img src="https://32.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gif" height="40px" width="40px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=007ACC&size=32&center=true&vCenter=true&width=600&pause=1000&lines=Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Web+Developer+at+VaultEA+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;BSc+Computer+Science+Graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;Let's+connect!+%F0%9F%93%AB">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=007ACC&size=32&center=true&vCenter=true&width=800&pause=1000&lines=Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Web+Developer+at+VaultEA+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;BSc+Computer+Science+Graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;AWS+Certified+Developer+–+Associate+%E2%98%81%EF%B8%8F;Let's+connect!+%F0%9F%93%AB">
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 - 🧑‍💻 &nbsp; Web Developer at VaultEA
 
 - 👨‍🎓 &nbsp; BSc Computer Science Graduate
+
+- ☁️ &nbsp; AWS Certified Developer – Associate
 
 - 📫 &nbsp; Let's connect! &rarr; <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 
