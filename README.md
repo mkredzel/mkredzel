@@ -41,18 +41,19 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![NativeScript](https://img.shields.io/badge/-NativeScript-05122A?style=flat&logo=nativescript&logoColor=3B6DFD)
-![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl)
+![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl&logoColor=39457E)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket)
+![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket&logoColor=9F1D20)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=000000)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=247FF7)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel&logoColor=FB7A24)
@@ -71,5 +72,5 @@
 </div>
 
 <div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mkredzel&bg_color=050F2C&color=0194DD&line=0194DD&point=ffffff&area_color=1c1917&area=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkredzel&bg_color=050F2C&color=0194DD&line=0194DD&point=ffffff&area_color=1c1917&area=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
 </div>
