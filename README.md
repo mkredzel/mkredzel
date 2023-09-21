@@ -20,9 +20,6 @@
 
 - 📫 &nbsp; Let's connect! &rarr; <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
 
-- 💼 &nbsp; Some of my projects are ~~available~~ here &rarr; <code><a href="https://mkredzel.me" title="My "><img width="22" src="https://cdn.iconscout.com/icon/free/png-256/job-portfolio-1956296-1650459.png"> ~~My Portfolio~~</a></code>
-[](https://mkredzel.me)
-
 <br>
 <br>
 
