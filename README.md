@@ -61,7 +61,8 @@
 <h1 align="left">📊 Contribution Stats</h1>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=mkredzel&data=followers,repositories,stars,commits&theme=vscode" width="100%">
-<img src="https://raw.githubusercontent.com/mkredzel/mkredzel/output/snake.svg" alt="Snake Animation" width="100%" />
+
+<img src="https://raw.githubusercontent.com/mkredzel/mkredzel/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 <div style="display: flex;"> 
     <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="32.8%" alt="Most Used Languages" />
