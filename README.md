@@ -31,7 +31,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery&logoColor=4479A1)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
@@ -41,7 +43,7 @@
 ![Perl](https://img.shields.io/badge/-Perl-05122A?style=flat&logo=perl&logoColor=39457E)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![JAVA](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Racket](https://img.shields.io/badge/-Racket-05122A?style=flat&logo=racket&logoColor=9F1D20)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -50,18 +52,17 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=247FF7)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![cPanel](https://img.shields.io/badge/-cPanel-05122A?style=flat&logo=cpanel&logoColor=FB7A24)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=flat&logo=xampp&logoColor=FB7A24)
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=247FF7)
 
 </p>
 
 <h1 align="left">📊 Contribution Stats</h1>
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=mkredzel&data=followers,repositories,stars,commits&theme=vscode" width="100%">
-
 <img src="https://raw.githubusercontent.com/mkredzel/mkredzel/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 <div style="display: flex;"> 
