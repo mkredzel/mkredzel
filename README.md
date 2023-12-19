@@ -66,8 +66,8 @@
 <img src="https://raw.githubusercontent.com/mkredzel/mkredzel/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 <div style="display: flex;"> 
-    <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="32.8%" alt="Most Used Languages" />
-    <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&role=owner,collaborator,organization_member&include_all_commits=true" width="66.7%" alt="GitHub Stats" />
+    <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="40.25%" alt="Most Used Languages" />
+    <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api?username=mkredzel&show_icons=true&hide=contribs,issues&theme=algolia&custom_title=GitHub%20Stats&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&rank_icon=github" width="59.25%" alt="GitHub Stats" />
 </div>
 
 <div>
