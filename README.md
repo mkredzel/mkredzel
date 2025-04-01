@@ -18,7 +18,7 @@
 
 - ☁️ &nbsp; AWS Certified Developer – Associate
 
-- 📫 &nbsp; Let's connect! &rarr; <code><a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile"><img width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code>
+- 📫 &nbsp; Let's connect! &rarr; <code><img width="22" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"> <a href="https://www.linkedin.com/in/mkredzel/" title="LinkedIn Profile">LinkedIn</a></code>
 
 <br>
 <br>
