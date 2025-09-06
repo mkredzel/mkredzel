@@ -64,6 +64,11 @@
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=mkredzel&data=followers,repositories,stars,commits&theme=vscode" width="100%">
 <img src="https://raw.githubusercontent.com/mkredzel/mkredzel/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mkredzel/mkredzel/refs/heads/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mkredzel/mkredzel/refs/heads/github-breakout/images/breakout-light.svg">
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/mkredzel/mkredzel/refs/heads/github-breakout/images/breakout-dark.svg" width="100%">
+</picture>
 
 <div style="display: flex;"> 
     <img decoding="async" loading="lazy" src="https://github-readme-stats-mkredzel.vercel.app/api/top-langs/?username=mkredzel&theme=algolia&langs_count=10&layout=compact&role=owner" width="36.75%" alt="Most Used Languages" />
