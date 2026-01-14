@@ -12,7 +12,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-- 🧑‍💻 &nbsp; Back End Developer at 15gifts
+- 🧑‍💻 &nbsp; Software Engineer at Monzo
 
 - 👨‍🎓 &nbsp; BSc Computer Science Graduate
 
